@@ -48,8 +48,10 @@ box-shadow: rgb(7, 7, 7);
 
 }
 footer{
+    background-color: dodgerblue;
     text-align: end;
     display: flex;
+    padding: 35px;
     justify-content: center;
 }
 header.dos{
